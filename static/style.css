@@ -1,0 +1,27 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+
+
+table{
+    border: 2px solid black;
+    /* height: 200px;
+    width: 200px; */
+}
+
+
+
+
+th{
+    border: 2px solid black;
+    height: 50px;
+    width: 100px;
+}
+
+td{
+    border: 2px solid black;
+    height: 25px;
+    width: 50px;
+    text-align: center;
+}
